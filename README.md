@@ -17,15 +17,9 @@ This project performs exploratory data analysis (EDA) on the UCI Heart Disease d
 
 ## Files
 - `eda.ipynb`: Jupyter Notebook with EDA code, visualizations, and outputs.
-- `Heart_Disease_EDA_Report.pdf`: Detailed report with findings, tables, and plots.
+- `Heart Disease Prediction.pdf`: Detailed report with findings, tables, and plots.
 - `heart_disease_uci.csv`: Dataset.
 
-## How to Run
-1. Clone the repository: `git clone https://github.com/YourUsername/Heart-Disease-Prediction-EDA.git`
-2. Install dependencies: `pip install pandas numpy matplotlib seaborn scipy`
-3. Open `eda.ipynb` in Jupyter Notebook or VS Code.
-4. Run all cells to reproduce the analysis.
-5. View `Heart_Disease_EDA_Report.pdf` for a summary.
 
 ## Tools Used
 - Python: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
